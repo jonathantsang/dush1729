@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/channel/UC-_g3T_1YjrLwj9k9Vp0keQ">
   <img align="left" alt="Dushyant Singh - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=dush1729" alt="dush1729" /> </p>
+<img src="https://komarev.com/ghpvc/?username=dush1729" alt="dush1729"/>
 <br />
 <br />
 
