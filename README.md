@@ -9,6 +9,7 @@
 <a href="https://www.youtube.com/channel/UC-_g3T_1YjrLwj9k9Vp0keQ">
   <img align="left" alt="Dushyant Singh - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=dush1729" alt="dush1729" /> </p>
 <br />
 <br />
 
@@ -29,7 +30,6 @@ I'm software engineer at BYJU's, Bengaluru. I graduated from Manipal University 
 ![Project Euler progress](http://projecteuler.net/profile/dush1729.png?theme=dark)
 
 ![Dushyant's github stats](https://github-readme-stats.vercel.app/api?username=dush1729&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
-
 
 Cheers,<br />
 Dushyant<br />
