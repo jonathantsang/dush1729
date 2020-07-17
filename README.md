@@ -20,10 +20,10 @@ I'm software engineer at BYJU's, Bengaluru. I graduated from Manipal University 
 - Web Development - Javascript, MongoDb, Express, NodeJS
 
 **Competitive Programming Profile:**
-- Codechef - [dushsingh1995](codechef.com/users/dushsingh1995)
-- Codeforces - [dush1729](codeforces.com/profile/div24ever)
-- Topcoder - [dush1729](topcoder.com/members/dush1729)
-- Atcoder - [dush1729](atcoder.jp/users/dush1729)
+- Codechef - [dushsingh1995](https://www.codechef.com/users/dushsingh1995)
+- Codeforces - [dush1729](https://www.codeforces.com/profile/div24ever)
+- Topcoder - [dush1729](https://www.topcoder.com/members/dush1729)
+- Atcoder - [dush1729](https://www.atcoder.jp/users/dush1729)
 
 <a href="https://stackoverflow.com/users/5258585/dushyant-singh"><img src="https://stackoverflow.com/users/flair/5258585.png?theme=dark" width="208" height="58" alt="profile for Dushyant Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dushyant Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ![Project Euler progress](http://projecteuler.net/profile/dush1729.png?theme=dark)
@@ -33,4 +33,4 @@ I'm software engineer at BYJU's, Bengaluru. I graduated from Manipal University 
 
 Cheers,<br />
 Dushyant<br />
-[dush1729.github.io](dush1729.github.io)
+[dush1729.github.io](https://www.dush1729.github.io)
