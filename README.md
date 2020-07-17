@@ -32,5 +32,7 @@ I'm software engineer at BYJU's, Bengaluru. I graduated from Manipal University 
 
 
 Cheers,
+
 Dushyant
+
 [dush1729.github.io](dush1729.github.io)
