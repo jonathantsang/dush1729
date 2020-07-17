@@ -31,8 +31,6 @@ I'm software engineer at BYJU's, Bengaluru. I graduated from Manipal University 
 ![Dushyant's github stats](https://github-readme-stats.vercel.app/api?username=dush1729&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
 
 
-Cheers,
-
-Dushyant
-
+Cheers,<br />
+Dushyant<br />
 [dush1729.github.io](dush1729.github.io)
