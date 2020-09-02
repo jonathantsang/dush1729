@@ -25,6 +25,7 @@ I'm software engineer at BYJU's, Bengaluru. I graduated from Manipal University 
 - Codeforces - [dush1729](https://www.codeforces.com/profile/div24ever)
 - Topcoder - [dush1729](https://www.topcoder.com/members/dush1729)
 - Atcoder - [dush1729](https://atcoder.jp/users/dush1729)
+- <a href="https://codeforces.com/profile/div24ever"><img src="https://run.kaist.ac.kr/badges/codeforces/div24ever.svg"></a>
 
 <a href="https://stackoverflow.com/users/5258585/dushyant-singh"><img src="https://stackoverflow.com/users/flair/5258585.png?theme=dark" width="208" height="58" alt="profile for Dushyant Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dushyant Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ![Project Euler progress](http://projecteuler.net/profile/dush1729.png?theme=dark)
